@@ -1,0 +1,48 @@
+/*
+MyCV.html
+O Haran
+02.03.2023
+*/
+
+	
+body{ 
+	background-color: beige;
+	text-align: center;
+	color: white;
+}
+.row{
+	background: white;
+	margin-top: 100px;
+	min-height: 100px;
+	justify-content: space-between;
+}
+.show{
+	
+background-color: white;
+color: black;
+}
+p, ul{ 
+color: black;
+}
+h1{ 
+	color: olive;
+	font-family: calibri;
+	font-size: 350%;
+	text-shadow: 5px 5px 10px grey;
+	text-align: center;
+}
+h2{
+	Color: grey;
+	font-family: calibri light;
+	text-shadow: 5px 5px 10px grey;
+}
+
+contact3{ 
+	font-family: calibri light;
+	font-size: 85%;
+}
+h3{
+	font-family: calibri light;
+	color: grey;
+	font-size: 100%;
+	text-decoration: underline;
